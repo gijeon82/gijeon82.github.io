@@ -8,4 +8,5 @@
 
 
 이 저장소는 [손석호 박사님](https://github.com/seokho-son/seokho-son.github.io) 의 저장소를 클론하여 커스터마이징한 것입니다.
+손석호 박사님께 감사드립니다.
 
