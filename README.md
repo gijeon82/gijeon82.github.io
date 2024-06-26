@@ -7,5 +7,5 @@
 
 
 
-이 저장소는 [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) 의 저장소를 클론하여 커스터마이징한 것입니다.
+이 저장소는 [손석호 박사님](https://github.com/seokho-son/seokho-son.gihub.io) 의 저장소를 클론하여 커스터마이징한 것입니다.
 
